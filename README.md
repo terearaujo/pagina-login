@@ -1,2 +1,19 @@
-# pagina-login
-Página de login moderna e responsiva desenvolvida com HTML e CSS puro. O projeto utiliza ícones do Boxicons, fonte Poppins e efeito de fundo translúcido com imagem personalizada. Ideal para estudos de layout, design limpo e estrutura sem JavaScript.
+# 🌌 Página de Login com HTML e CSS
+
+Uma página de **login moderna e responsiva** feita apenas com **HTML e CSS**.
+
+## ✨ Recursos
+- Layout centralizado com **Flexbox**
+- Ícones do **Boxicons**
+- Fonte **Poppins (Google Fonts)**
+- Efeito de fundo com **imagem e transparência (blur)**
+- Campos de entrada com estilo e botão animado
+
+## 🖼️ Preview
+![Preview da Página](./img/img.jpg)
+
+## 🚀 Tecnologias
+- HTML5  
+- CSS3  
+
+## 📁 Estrutura
