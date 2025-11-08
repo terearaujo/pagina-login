@@ -17,3 +17,9 @@ Uma página de **login moderna e responsiva** feita apenas com **HTML e CSS**.
 - CSS3  
 
 ## 📁 Estrutura
+/meu-login/
+│
+├── index.html
+├── styles.css
+└── img/
+    └── img.jpg
